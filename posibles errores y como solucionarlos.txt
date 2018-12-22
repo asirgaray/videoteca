@@ -1,0 +1,1 @@
+Si no deja hacer login, cambiar la variable de hash por la de password

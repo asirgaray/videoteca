@@ -1,0 +1,1 @@
+está incluido en el propio código del añadir, que es la única página a la que me deja acceder sin estar logueado.

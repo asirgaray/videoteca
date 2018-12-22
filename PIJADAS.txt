@@ -1,0 +1,26 @@
+USAR CHROME
+hacer todo material design materialice
+La página tiene un easter egg con forma de alien, si clicas se crean +particulas, poner mas easter egg
+AL SELECCIONAR TEXTO SE VUELVE VIOLETA
+BARRA SCROLL ROSA
+EFECTO CUADRADOS EN salir TIPO PLAYSTATION
+el circulo de añadir da vueltas, recomendadas se resalta
+aparece texto hover en los botones de la nav y categorías
+
+
+
+carrousel
+detalle, eliminar, actualizar... tiene que tener security
+contacto cv.nebunix.es
+boton inicio sesión dropdown y poner nombre usuario y foto logeado
+boton ir al cielo con icono en carpeta iconos
+que la navbar no se esconda, position relative, absolute, fixed
+hacer limpieza de archivos y css
+efecto aparecer fichas desde abajo
+link imdb y puntuación
+nombre de usuario con dropdown en el centro de la barra de navegación
+que cada usuario tenga su propia biblioteca
+sistema de recomendaciones por cookie, añadido recientemente, mas populares...
+contacto = mailto html pag mejorespelis
+que los usuarios suban su imagen de perfil
+subir la página a internet
